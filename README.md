@@ -1,1 +1,7 @@
-Trabalho final de Computação 2, construindo uma interface gráfica com Tkinter e Python.
+# Trabalho final de Computação 2, construindo uma interface gráfica com Tkinter e Python.
+
+### O trabalho final tinha como objetivo produzir um "programa" gráfico que fosse de fácil utilização para o usuário casual, que tivesse serventia prática e com a temática relacionada à Covid 19. Infelizmente utilizei alguns dados fixos que precisam ser atualizados no código fonte, como por exemplo a comparação de mortes com outros países, na classe MortesPaíses. Para corrigir este problema, o ideal seria construir uma nova aba para inserção dos dados, porém no momento tive dificuldade para implementar esta feature.
+
+### Também foi adicionado no programa um relógio digital com a biblioteca datetime. A ideia seria produzir um programa com dados retirados diretamente da internet, sem a necessidade de inputs por parte do usuário, porém novamente esta feature fica para um outro momento.
+
+### Para executar o programa, basta inicia-lo no seu editor e inserir os dados do lado esquerdo, após inserir, basta clicar nas bandeiras dos países para fazer a comparação. A saída do resultado aparecerá no canto inferior direito. Esta informação diz respeito à quantidade de vidas que poderiam ser poupadas caso o Brasil adotasse as medidas de prevenção do país no qual a bandeira foi clicada. Sendo eles: França, Alemanha, Espanha e Suíça.
